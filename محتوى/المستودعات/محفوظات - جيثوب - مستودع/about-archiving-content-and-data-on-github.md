@@ -33,4 +33,4 @@ You can opt out of the {% data variables.product.prodname_archive %} for your re
 
 ## Adding an open source license to increase archivability
 
-Libraries and researchers may require legal protections to create archives of publicly available content. If you want third parties to consider your work on {% data variables.product.product_name %} for archiving, you can add an [open source license](/articles/open-source-licensing) to your projects. An open source license gives contributors explicit permissions to copy and distribute the material in your repositories.
+وقد تحتاج المكتبات والباحثون إلى حماية قانونية لإنشاء محفوظات محتوى متوفرة للجمهور. إذا كنت تريد أطراف ثالثة أن تنظر في عملك بشأن متغيرات البيانات، المنتج، المنتج/اسم المحفوظات، يمكنك أن تضيف [ترخيص المصدر المفتوح](المواد/الترخيص المفتوح المصدر) إلى مشاريعك. وترخيص المصدر المفتوح تمنح المساهمين ljjjj
